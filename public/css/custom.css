@@ -1,0 +1,32 @@
+.profile-img{
+	max-width: 150px;
+	border: 5px solid #fff;
+	border-radius: 100%;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+.navbar-menu>li {
+    float: left;
+}
+
+.navbar-menu>li a {
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar-menu>li a:hover {
+    background-color: #EEEEEE;
+    text-decoration: none !important;
+}
